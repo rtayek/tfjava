@@ -8,5 +8,5 @@ An attempt to get TensorFlow 2 workinh with Java
 #
 
 just starting this, so thereis nothiing else hereyet.
-it may be a better idea to fork the exanoles, clone the data repo, and just change the oath to rge files.
+it may be a better idea to fork the exanoles, clone the data repo, and just change the path to rge files.
 
